@@ -14,5 +14,5 @@
 * Merged extracted data into mergedSet
 * Retrieved label names from features.txt
 * Applied labels to mergedSet
-* Stored mean of eat variable in FinalOutput using sapply(mergedSet, mean)
+* Stored mean of each variable in FinalOutput using sapply(mergedSet, mean)
 * Exported FinalOutput to text file using write.table(FinalOutput, "FinalOutput.txt", row.names=FALSE)
