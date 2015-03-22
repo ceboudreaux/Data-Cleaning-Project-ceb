@@ -1,0 +1,3 @@
+## In accordance with the Honor Code, I acknowledge that an external source was used in my work.
+## My run_analysis function uses the model set forth by Github user @Hassannur.
+## @Hassannur's repo can be found at https://github.com/Hassannur/TidyData
